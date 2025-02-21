@@ -1,0 +1,19 @@
+El CONPES 4144 de 2025 presenta la Política Nacional de Inteligencia Artificial (IA) con el propósito de fortalecer las capacidades del país en la investigación, desarrollo, adopción y uso ético y sostenible de la IA. En un contexto global donde la IA ha crecido exponencialmente, Colombia enfrenta el reto de mejorar su infraestructura tecnológica, impulsar la formación de talento especializado y garantizar una gobernanza adecuada que minimice los riesgos asociados a esta tecnología. 
+
+Para abordar estos desafíos, esta política se basa en seis ejes estratégicos. 
+
+1. Ética y Gobernanza: Busca establecer mecanismos regulatorios y de supervisión para el uso de Inteligencia Artificial, promoviendo principios éticos que eviten discriminación y sesgos en los algoritmos. Además, fomenta la participación del país en organismos internacionales para armonizar su marco normativo con estándares globales. 
+
+2. Datos e Infraestructura: Este está enfocado en mejorar la conectividad digital, desarrollar infraestructura tecnológica avanzada y fortalecer la disponibilidad de datos abiertos y de calidad para entrenar modelos de IA.
+
+3. Investigación, Desarrollo e Innovación (I+D+i): Busca aumentar la inversión en proyectos de IA en sectores estratégicos, fomentar la cooperación entre universidades, empresas y gobierno, y crear incentivos para la generación de conocimiento en IA. 
+
+4. Talento Digital y Capacidades: Tiene como objetivo integrar la enseñanza de IA en colegios y universidades, capacitar a la fuerza laboral en nuevas tecnologías y reducir la brecha de especialistas en el país.
+
+5. Mitigación de riesgos: Dado que el desarrollo de la IA también conlleva riesgos, la política establece un eje de Mitigación de Riesgos, que contempla la implementación de marcos de seguridad digital, y regulaciones para proteger los derechos laborales ante el impacto de la automatización y medidas de protección de datos personales. 
+
+6. Uso y Adopción de la IA: Tiene como finalidad impulsar la integración de esta tecnología en el sector público y privado, con especial énfasis en la modernización del Estado y la transformación digital de las empresas.
+
+La implementación de esta política requerirá la ejecución de 106 acciones específicas hasta 2030, con una inversión estimada de 479.273 millones de pesos. Para ello, el documento establece la participación de diversas entidades, incluyendo los ministerios de TIC, Ciencia, Educación, Trabajo y Comercio, entre otros.
+
+En conclusión, el CONPES 4144 de 2025 define una hoja de ruta integral para el desarrollo de la IA en Colombia, con un enfoque que equilibra el crecimiento tecnológico con la protección de derechos y la equidad. Su correcta implementación permitirá a Colombia aprovechar el potencial de la IA para mejorar su productividad, impulsar la innovación y generar beneficios sociales y económicos, mientras minimiza los riesgos y promueve su adopción responsable.
