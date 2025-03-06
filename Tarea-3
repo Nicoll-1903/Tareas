@@ -1,0 +1,83 @@
+Ethereum (ETH): Es la segunda criptomoneda más grande del mundo y la pionera en la tecnología de contratos inteligentes. Es la base de la mayoría de las aplicaciones descentralizadas (DApps), incluyendo DeFi (finanzas descentralizadas), NFT, DAO y juegos blockchain.
+Ideas clave
+- Blockchain programable : Permite crear contratos inteligentes.
+- Gran ecosistema : Soporta millas de DApps y tokens ERC-20.
+- Transición a Ethereum 2.0 : Usa Prueba de Participación (PoS) para mayor eficiencia.
+- Problemas de escalabilidad : Tarifas de gas altas y velocidad baja.
+- Actualizaciones constantes : Ethereum busca mejorar con soluciones como rollups y sharding.
+Casos de uso
+  - DeFi: Protocolos como Uniswap, Aave, MakerDAO.
+  - NFT: Opensea, Rarible, Bored Apes.
+  - Juegos: Axie Infinity, Decentraland.
+Retos y desafíos
+  - Altos costos de transacción en momentos de congestión.
+  - Competencia con blockchains más rápidas y baratas como Solana o Algorand.
+  - Escalabilidad : Aunque Ethereum 2.0 ha mejorado, aún se trabaja en soluciones como sharding.
+
+
+Solana (SOL):Es una blockchain de alto rendimiento diseñada para transacciones rápidas y económicas. Es popular en DeFi, NFT y juegos.
+Ideas clave
+- Alta velocidad : Hasta 65,000 TPS (Transacciones por segundo).
+- Bajos costos : Comisiones de menos de $0.01 por transacción.
+- Consenso híbrido : Usa Prueba de Historia (PoH) + Prueba de Participación (PoS).
+- Problemas de estabilidad : La red ha sufrido caídas frecuentes debido a una sobrecarga.
+- Menos descentralización : Requiere hardware avanzado para ser validador.
+Casos de uso
+  - DeFi: Suero, Raydium.
+  - NFT: Magic Eden, Solanart.
+  - Juegos: Star Atlas, STEPN.
+Retos y desafíos
+  - Caídas de la red : Problemas en momentos de alto tráfico.
+  - Menos descentralización que Ethereum, ya que los validadores requieren equipos costosos.
+  - Competencia con blockchains de alto rendimiento como Algorand y Avalanche.
+
+
+Hedera Hashgraph (HBAR):Hedera no usa blockchain tradicional, sino una tecnología llamada Hashgraph , que es más rápida y eficiente.
+Ideas clave
+- No es blockchain : Usa un algoritmo de consenso dirigido por Hashgraph.
+- Alta velocidad : Más de 10,000 TPS y baja latencia.
+- Costos mínimos : Menos de $0.0001 por transacción.
+- Gobernanza centralizada : Controlada por empresas como Google, IBM y Boeing.
+- Seguridad avanzada : Consenso asincrónico bizantino tolerante a fallos (aBFT).
+Casos de uso
+  - Pagos rápidos y seguros.
+  - Aplicaciones empresariales y gubernamentales.
+  - Sistemas financieros y bancarios.
+Retos y desafíos
+  - Menos descentralización : La gobernanza está en manos de grandes empresas.
+  - Menor adopción en el sector DeFi en comparación con Ethereum y Solana.
+  - Falta de reconocimiento en la comunidad cripto.
+
+
+Binance Coin (BNB): BNB es la criptomoneda de Binance, el exchange más grande del mundo. Su blockchain, Binance Smart Chain (BSC), es una alternativa más rápida y barata que Ethereum.
+Ideas clave
+- Creada por Binance : Usada para tarifas dentro del exchange.
+- Binance Smart Chain (BSC) : Compatible con contratos inteligentes y tokens BEP-20.
+- Rápida y económica : Costos de transacción bajos (~$0.10).
+- Centralización relativa : Binance controla gran parte de la red.
+- Token quemado regularmente : Binance destruye tokens para reducir la oferta y aumentar su valor.
+Casos de uso
+  - Descuentos en Binance por pagar comisiones con BNB.
+  - DeFi : PancakeSwap, Venus.
+  - NFT y juegos : Binance NFT.
+Retos y desafíos
+  - Dependencia de Binance : Si Binance enfrenta regulaciones, BNB podría verse afectado.
+  - Menos descentralización que Ethereum o Algorand.
+  - Competencia con otras blockchains compatibles con contratos inteligentes .
+
+
+Algorand (ALGO): Algorand es una blockchain con enfoque en la seguridad, escalabilidad y descentralización . Su tecnología está diseñada para evitar bifurcaciones y errores en la red.
+Ideas clave
+- Prueba de Participación Pura (PPoS) : Más descentralizado que Solana y BNB.
+- Velocidad alta : Aproximadamente 1,000 TPS y transacciones finalizadas en segundos.
+- Bajas tarifas : Menos de $0.001 por transacción.
+- Enfoque en sostenibilidad : Algorand es una blockchain carbono neutral.
+- Desarrollo empresarial : Adopción por gobiernos y grandes compañías.
+Casos de uso
+  - Pagos rápidos y seguros.
+  - DeFi y tokenización.
+  - Proyectos empresariales y gubernamentales.
+Retos y desafíos
+  - Menor adopción en DeFi comparada con Ethereum y Solana.
+  - Competencia con blockchains rápidas como Solana y Avalanche.
+  - Falta de reconocimiento en la comunidad cripto.
