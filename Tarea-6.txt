@@ -1,0 +1,75 @@
+Proyectos de Generación Eólica en Colombia
+Heidy Nicoll Mahecha Pérez
+
+Colombia, en su transición hacia una matriz energética más limpia y diversificada, ha apostado fuertemente por la energía eólica, especialmente en la región de La Guajira, una de las zonas con mayor potencial de viento en América Latina. A continuación, se describen los principales proyectos eólicos en el país, destacando su capacidad, ubicación, estado actual y su impacto en el desarrollo energético.
+
+1. Parque Eólico Guajira I
+- Ubicación: Uribia, La Guajira
+- Capacidad: 20 MW
+- Estado: Operativo desde enero de 2022
+- Descripción:
+Este parque fue desarrollado por Isagen y es considerado el primer proyecto eólico moderno que entra en operación en el país después del piloto Jepírachi. Guajira I marca un hito al ser el primero en conectarse al Sistema Interconectado Nacional desde la región. Está conformado por 10 aerogeneradores Vestas V100 y produce suficiente energía para abastecer a más de 33.000 hogares colombianos. También sirvió como proyecto de referencia para la viabilidad técnica y social de otros parques eólicos en la zona. [1]
+
+2. Proyecto Jemiewaa Ka’I
+- Ubicación: Uribia, La Guajira [2]
+- Capacidad proyectada: 648 MW
+- Estado: En fase de desarrollo [4]
+- Descripción:
+Este megaproyecto impulsado por AES Colombia consta de cinco parques eólicos que en conjunto conformarán uno de los complejos de generación renovable más grandes de Colombia. Se espera que Jemiewaa Ka’I contribuya con un 15% del total de energía renovable proyectada en los próximos años en el país. El proyecto está siendo desarrollado con un enfoque de sostenibilidad y responsabilidad social, incluyendo procesos de consulta previa con comunidades indígenas Wayuu. [3]
+
+3. Proyectos Alpha, Beta y Wesp01
+- Ubicación: Uribia, Maicao y Riohacha, La Guajira
+- Capacidad combinada estimada: 524 MW
+- Estado: En construcción [6]
+- Descripción:
+Desarrollados por la empresa Enel Green Power, estos tres proyectos representan una de las apuestas más ambiciosas de la empresa en Colombia. Cada parque tendrá entre 45 y 80 aerogeneradores, y se espera que juntos puedan abastecer a más de 800.000 hogares. A pesar de contar con licencias ambientales, han enfrentado retrasos por dificultades en la obtención de permisos territoriales y sociales, especialmente con las comunidades Wayuu. [5]
+
+4. Proyecto Eólico Carreto (Celsia)
+- Ubicación: Santa Lucía, Atlántico
+- Capacidad: 9,6 MW
+- Estado: En construcción (fase avanzada)
+- Descripción:
+Este es uno de los primeros proyectos eólicos fuera de La Guajira. El proyecto Carreto es impulsado por Celsia, compañía del Grupo Argos, y será fundamental para probar la viabilidad de generación eólica en otras regiones del Caribe colombiano. Se compone de 3 aerogeneradores de gran tamaño y su energía se integrará directamente al sistema nacional, apoyando la descarbonización progresiva del sector energético. [7]
+
+5. Proyectos Eólicos Costa Afuera
+- Ubicación: Litoral Caribe colombiano (entre La Guajira y Bolívar)
+- Capacidad proyectada: 5,1 GW para 2040
+- Estado: En fase de planificación y licitación
+- Descripción:
+El Gobierno Nacional, a través de la Unidad de Planeación Minero Energética (UPME) y la DIMAR, ha identificado 12 bloques marinos con potencial para desarrollo eólico offshore. A la fecha se han presentado al menos 11 proyectos de empresas como Copenhagen Infrastructure Partners, EDF Renewables y Ecopetrol. Estos proyectos podrían convertir a Colombia en un referente latinoamericano en energía eólica marina, diversificando aún más su matriz energética.[8]
+
+6. Alianza Ecopetrol y AES Colombia
+- Ubicación: Zona norte de La Guajira
+- Capacidad estimada: Más de 200 MW
+- Estado: En desarrollo (acuerdo firmado en 2025)
+- Descripción:
+Esta alianza estratégica contempla la construcción conjunta de uno o varios parques eólicos, con el fin de suplir parte de la demanda energética de Ecopetrol con fuentes renovables. El acuerdo se firmó en abril de 2025 y forma parte del compromiso de la petrolera estatal para descarbonizar su operación y alinearse con la transición energética nacional. Los proyectos estarán ubicados en zonas cercanas a las operaciones de exploración y producción de Ecopetrol. [6] 
+
+Panorama General del Sector Eólico en Colombia: [9]
+- Número total de proyectos inscritos en la UPME (2025): 31
+	- 19 proyectos en tierra (onshore)
+	- 12 proyectos en el mar (offshore)
+- Capacidad total estimada: Más de 8.000 MW para 2034
+- Principales desarrolladores: AES, Enel, Isagen, Celsia, Ecopetrol, EDPR
+
+Desafíos para el desarrollo eólico:
+- Sociales: La necesidad de realizar consultas previas con comunidades indígenas (especialmente los Wayuu) ha generado retrasos significativos. Existen preocupaciones sobre el reparto justo de beneficios y la conservación del territorio ancestral. [10]
+- Ambientales: Los proyectos deben ajustarse a estrictas normas de protección del ecosistema desértico y costero.
+- Infraestructura: La falta de redes de transmisión adecuadas en La Guajira limita la capacidad de evacuar la energía generada hacia el interior del país.
+- Burocracia: Trámites prolongados y falta de articulación entre entidades estatales han dificultado el avance de proyectos ya licitados.[11]
+
+Conclusión:
+- Colombia tiene un enorme potencial eólico que ya empieza a materializarse en proyectos concretos, principalmente en La Guajira y el Caribe. Si bien hay obstáculos importantes por superar, los avances en regulación, infraestructura y relaciones con comunidades permitirán que estos proyectos transformen la matriz energética nacional en la próxima década.
+
+Referencias:
+[1] ICEX. Energía eólica onshore en Colombia. 2022. Tomado de: https://www.camarabilbao.com/wp-content/uploads/2023/03/ENERG%C3%8DA-E%C3%93LICA-Ficha-sector-Energ%C3%ADa-e%C3%B3lica-onshore-en-Colombia-2022.pdf
+[2] Somos el cambio. Energía eólica costa afuera: Colombia busca ser pionera en la región. 2024. Tomado de: https://cambio.com.co/articulo/energia-eolica-costa-afuera-colombia-busca-ser-pionera-en-la-region/
+[3] AES Colombia. Proyectos de energía renovable en Colombia que deberías conocer. Tomado de: https://www.aescol.com/en/blog/proyectos-de-energia-renovable-en-colombia-que-deberias-conocer
+[4] Minenergía. Nueve compañías interesadas en participar en la primera ‘Ronda de energía eólica costa afuera en Colombia’. 2024. Tomado de: https://www.minenergia.gov.co/es/sala-de-prensa/noticias-index/nueve-compa%C3%B1%C3%ADas-interesadas-en-participar-en-la-primera-ronda-de-energ%C3%ADa-e%C3%B3lica-costa-afuera-en-colombia/
+[5] BMC. Gestor del mercado de gas natural en Colombia. Tomado de: https://www.bmcbec.com.co/publicaciones/posts/noticias/noticias/la-guajira-tiene-16-proyectos-de-energia-eolico-con
+[6] Ecopetrol. El productor colombiano de petróleo Ecopetrol cierra un acuerdo para un parque eólico. 2025. Tomado de: https://www.reuters.com/business/energy/colombia-oil-producer-ecopetrol-ties-up-wind-farm-deal-2025-04-14/
+[7] Celsia. ¡Llegaron los aerogeneradores para proyecto eólico de Celsia en el Atlántico!. 2024. Tomado de: https://www.celsia.com/es/noticias/llegaron-los-aerogeneradores-para-proyecto-eolico-de-celsia-en-el-atlantico/
+[8] Energía estratégica. Se presentaron 11 proyectos eólicos costa afuera en Colombia que superan ampliamente los objetivos al 2040. 2023. Tomado de: https://www.energiaestrategica.com/se-presentaron-11-proyectos-eolicos-costa-afuera-en-colombia-que-superan-ampliamente-los-objetivos-al-2040/
+[9] LR. Acelerando la transición energética. 2024. Tomado de: https://www.larepublica.co/especiales/acelerando-la-transicion-energetica/cuantos-proyectos-de-energia-eolica-hay-en-colombia-3849123
+[10]Dialogue earth. Los parques eólicos dividen a comunidades indígenas de Colombia. 2023. Tomado de: https://dialogue.earth/es/energia/368855-los-parques-eolicos-dividen-a-comunidades-indigenas-de-colombia-wayuu/
+[11]Stacey Diego. El país. La gran transformación energética de Petro avanza a paso lento. 2025. Tomado de: https://elpais.com/america-colombia/2025-01-13/la-gran-transformacion-energetica-de-petro-avanza-a-paso-lento.html?
